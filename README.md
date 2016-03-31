@@ -1,8 +1,8 @@
-## BasicProject
+## Static Helper Input Methods
 
-### March 25, 2016
+### March 30, 2016
 
-My third version controlled project
+My version controlled project
 
 * git 
 * Java 7
